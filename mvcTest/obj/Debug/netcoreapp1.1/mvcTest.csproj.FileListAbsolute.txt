@@ -1,0 +1,8 @@
+/Users/Lametsu/Desktop/code/week21/C#/Wednesday/mvcTest/bin/Debug/netcoreapp1.1/mvcTest.deps.json
+/Users/Lametsu/Desktop/code/week21/C#/Wednesday/mvcTest/bin/Debug/netcoreapp1.1/mvcTest.runtimeconfig.json
+/Users/Lametsu/Desktop/code/week21/C#/Wednesday/mvcTest/bin/Debug/netcoreapp1.1/mvcTest.runtimeconfig.dev.json
+/Users/Lametsu/Desktop/code/week21/C#/Wednesday/mvcTest/bin/Debug/netcoreapp1.1/mvcTest.dll
+/Users/Lametsu/Desktop/code/week21/C#/Wednesday/mvcTest/bin/Debug/netcoreapp1.1/mvcTest.pdb
+/Users/Lametsu/Desktop/code/week21/C#/Wednesday/mvcTest/obj/Debug/netcoreapp1.1/mvcTest.AssemblyInfo.cs
+/Users/Lametsu/Desktop/code/week21/C#/Wednesday/mvcTest/obj/Debug/netcoreapp1.1/mvcTest.dll
+/Users/Lametsu/Desktop/code/week21/C#/Wednesday/mvcTest/obj/Debug/netcoreapp1.1/mvcTest.pdb
